@@ -10,3 +10,4 @@
   * 5) All Elements in Two Binary Search Tree
   * 6) Image Overlap
   * 7) Word Pattern
+  * 8) Sum of Root To Leaf Binary Numbers
