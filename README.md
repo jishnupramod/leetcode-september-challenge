@@ -7,4 +7,6 @@
   * 2) < Contains Duplicate III >
   * 3) Repeated Substring Pattern 
   * 4) Partition Labels
-  * 5) All Elements in Two Binary Search Trees
+  * 5) All Elements in Two Binary Search Tree
+  * 6) < Image Overlap >
+  * 7) Word Pattern
