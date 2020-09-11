@@ -13,3 +13,4 @@
   * 08) Sum of Root To Leaf Binary Numbers
   * 09) Compare Version Numbers
   * 10) Bulls and Cows
+  * 11) Maximum Product Subarray
