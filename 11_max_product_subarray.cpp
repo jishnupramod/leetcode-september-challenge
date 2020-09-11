@@ -19,7 +19,7 @@ Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int c1 = 1, c2 = 1, mp = 1, mn = 1, maxProd = 0;
+        int c1 = 1, c2 = 1, mp = 1, mn = 1, maxProd = INT_MIN;
         for (int i : nums) {
             c1 = mp * i;
             c2 = mn * i;
