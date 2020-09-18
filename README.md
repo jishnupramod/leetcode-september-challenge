@@ -19,5 +19,5 @@
   * 14) House Robber
   * 15) Length of Last Word
   * 16) < Maximun XOR of Two Numbers in an Array >
-  * 17) < Robot Bounded in Circle >
+  * 17) Robot Bounded in Circle
   * 18) Best Time to Buy and Sell Stocks
