@@ -21,7 +21,7 @@ Constraints:
 */
 
 
-
+// Lots of functions...
 class Solution {
 private:
     int cntDigs(int low) {
@@ -70,5 +70,26 @@ public:
             }
         }
         return seq;
+    }
+};
+
+
+
+// Easy and concise
+class Solution {
+public:
+    vector<int> sequentialDigits(int low, int high) {
+        vector<int> res;
+        int nl = to_string(low).length();
+        int nh = to_string(high).length();
+        string digits = "123456789";
+        for (int i=nl; i<=nh; ++i) {
+            for (int j=0; j<10-i; ++j) {
+                int num = stoi(digits.substr(j, i));
+                if (num >= low and num <= high)
+                    res.push_back(num);
+            }
+        }
+        return res;
     }
 };
