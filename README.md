@@ -21,3 +21,4 @@
   * 16) < Maximun XOR of Two Numbers in an Array >
   * 17) Robot Bounded in Circle
   * 18) Best Time to Buy and Sell Stocks
+  * 19) Sequential Digits
