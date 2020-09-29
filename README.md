@@ -29,3 +29,6 @@
   * 24) Find The Difference
   * 25) Largest Number
   * 26) Teemo Attacking
+  * 27) < Evaluate Divsion >
+  * 28) < Subarray Product Less Than K >
+  * 29) Word Break
